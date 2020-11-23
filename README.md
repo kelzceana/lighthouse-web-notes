@@ -1,3 +1,6 @@
 # Kelechi's notes
 # This id an H1 header (largest)
 ###### This is an H6 header (smallest)
+## Summary
+
+This repository contains all of the notes taken by [Kelechi](https://github.com/kelzceana) for [lighthouse Labs](https://github.com/lighthouse-labs) Web Development Bootcamp.
